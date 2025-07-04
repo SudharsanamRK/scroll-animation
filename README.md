@@ -9,3 +9,4 @@ A simple scroll-based animation project built with HTML, CSS, and JavaScript —
 - Local asset loading (no external image hotlinking)
 
 ## Demo
+[View Demo Output] (https://sudharsanamrk.github.io/scroll-animation/)
